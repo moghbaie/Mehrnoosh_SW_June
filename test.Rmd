@@ -11,4 +11,3 @@ airline <- read_sas("http://www.principlesofeconometrics.com/sas/airline.sas7bda
 ```
 
 
-
