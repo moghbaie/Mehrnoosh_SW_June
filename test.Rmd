@@ -1,0 +1,14 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(haven)
+airline <- read_sas("http://www.principlesofeconometrics.com/sas/airline.sas7bdat", 
++     NULL)
+```
+
+
+
